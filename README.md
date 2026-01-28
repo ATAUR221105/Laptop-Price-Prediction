@@ -33,6 +33,7 @@ As seen in the project directory:
 pip install -r requirements.txt
 
 2. Train the model and generate results:
+
 python src/train.py
 
 📈 Visual Insights
