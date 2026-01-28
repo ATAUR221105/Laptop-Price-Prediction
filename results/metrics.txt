@@ -1,0 +1,4 @@
+----- XGBoost Regression Results -----
+RMSE: 196.928
+R2 Score (Test): 0.9996
+5-Fold CV Mean R2: 0.9995
